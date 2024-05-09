@@ -4,7 +4,7 @@ import {
 } from "./gogo_extractor.js";
 import cheerio from "cheerio";
 
-const BaseURL = "https://ww5.gogoanimes.fi";
+const BaseURL = "https://anitaku.so";
 const USER_AGENT =
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36";
 
