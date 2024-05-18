@@ -6,16 +6,7 @@ The code for the website and API will remain accessible for anyone who wishes to
 
 Thank you for your understanding and support during the project's active phase! 🙌🌟
 
-### Project Links :
 
-<p>Telegram Support Group : <a href=https://telegram.me/TechZBots_Support>@TechZBots_Support</a>
-<p>AnimeDexLite Repository : <a href=https://github.com/TechShreyash/AnimeDexLite>TechShreyash/AnimeDexLite</a>
-<p>AnimeDex Api Repository : <a href=https://github.com/TechShreyash/AnimeDexApi>TechShreyash/AnimeDexApi</a>
-<p>AnimeDex Proxy Repository : <a href=https://github.com/TechShreyash/CloudflareWorker/tree/main/animedexproxy>TechShreyash/animedexproxy</a>
-<p>ThumbGen Api Repository : <a href=https://github.com/TechShreyash/ThumbApi>TechShreyash/ThumbApi</a>
-<p>Stats Api Repository : <a href=https://github.com/TechShreyash/StatsApi>TechShreyash/StatsApi</a>
-
-## AnimeDexApi
 
 - Anime api for some of my projects
 - Gogoanime scrapper
